@@ -1,0 +1,1 @@
+Discover the K-Nearest Neighbors (KNN) algorithm, a versatile and intuitive method for classification and regression tasks. This folder provides insights into how KNN works, its applications in pattern recognition, and practical examples using Python. Hands-on exercises will deepen your understanding of this neighborhood-based algorithm.
